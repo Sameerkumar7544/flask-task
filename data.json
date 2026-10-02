@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "category": "Electronics"
+    },
+    {
+        "id": 2,
+        "name": "Book",
+        "category": "Education"
+    },
+    {
+        "id": 3,
+        "name": "Calculator",
+        "category": "Education"
+    }
+]
